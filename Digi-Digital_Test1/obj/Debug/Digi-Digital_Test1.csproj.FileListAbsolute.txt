@@ -8,3 +8,13 @@ C:\Users\Lenovo\source\repos\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Dig
 C:\Users\Lenovo\source\repos\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.exe
 C:\Users\Lenovo\source\repos\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.pdb
 C:\Users\Lenovo\source\repos\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\bin\Debug\Digi-Digital_Test1.exe.config
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\bin\Debug\Digi-Digital_Test1.exe
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\bin\Debug\Digi-Digital_Test1.pdb
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\bin\Debug\WebDriver.xml
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.exe
+C:\Users\Lenovo\Desktop\Github\Digi-Digital_Test1\Digi-Digital_Test1\obj\Debug\Digi-Digital_Test1.pdb
